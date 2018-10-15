@@ -1,10 +1,16 @@
 # Cuckoo
 Cuckoo sandbox for automatized malware analysis
+* [Cuckoo](https://cuckoosandbox.org) - Tool used
+
 
 ## Getting Started
 
 First, download cuckoo or copy this repository to get everything you need to get started,
 may need to install yara, pcrypto and some other plugins in order to run properly
+
+```
+Guide install Cuckoo: * [Install Cuckoo](https://cuckoo.sh/docs/installation/index.html) - Tool used
+```
 
 ## Scripts
 
@@ -42,5 +48,13 @@ Check cuckoo doc to feed malware via
 ./cuckoo pathToMalware or --package
 ```
 If not, use the forward script of RScripts and add all the malware to the same path.
+
+## Examples of usage
+
+Refer to Cuckoo doc.
+```
+Usage guide Cuckoo: * [Guide](https://cuckoo.sh/docs/usage/index.html) - Usage guide
+```
+
 
 
