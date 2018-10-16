@@ -33,6 +33,7 @@ Set up for virtualbox and win7, configure reporting, virtualbox, routing to not 
 ### Elasticsearch
 
 Currently not working, no compability with last version of elasticsearch, error indexing.
+Due to that we have the ElasticSearch repo to send the sysmon and internal logs via nxlog to the server
 
 ## To start cuckoo
 
