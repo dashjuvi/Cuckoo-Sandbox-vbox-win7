@@ -25,7 +25,6 @@ ageny.py
 
 In this case only Windows used, modules auxiliary and packages, can customize our own in there
 
-
 ### Conf
 
 Set up for virtualbox and win7, configure reporting, virtualbox, routing to not to allow malware to go outside your network.
